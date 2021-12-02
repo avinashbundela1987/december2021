@@ -5,5 +5,5 @@
   <artifactId>my-app</artifactId>
   <version>1</version>
  <packaging>war</packaging>
-  <artifactId>maven-war-plugin</artifactId>
+  
 </project>
